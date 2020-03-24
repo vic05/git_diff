@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\domat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\domat\\.nuget\\packages"
+    ]
+  }
+}
